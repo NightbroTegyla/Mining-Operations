@@ -1,0 +1,36 @@
+body {
+    background-color: #321911; /* Dark brown background */
+    color: #C0C0C0; /* Change text color to white for better contrast */
+    text-align: center;
+}
+
+
+h1, h2, h3, p, a, em, strong, u, b, i {
+    color: inherit;
+}
+
+.fuel-warning {
+    color: #B22222;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+
+audio {
+    display: block;
+    margin: 0 auto;
+}
+
+
+a {
+    color: #483D8B;
+}
+
+.watch-it {
+    color: #2F4F4F;
+    font-family: "Courier New", Courier, monospace;
+}
+
